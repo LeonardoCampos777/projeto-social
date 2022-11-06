@@ -51,9 +51,9 @@ section#redes-sociais{
 section#redes-sociais img{
     width: 50px;
     margin: 10px;
-    border-radius: 50%;
+    border-radius: 50%; /*PARA FICAR REDONDA A IMAGEM */
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.822);
-    box-sizing: border-box;
+    box-sizing: border-box; /* PARA A BORDA FAZER PARTE DA CAIXA */
 }
 
 section#redes-sociais img:hover{
